@@ -8,7 +8,8 @@
 
 
 
-To me the plot shows how the type of store make a difference for sales. This is one of the reasons I go to walmart. You can get your cars oil changed and get your groceries.
+### To me the plot shows how the type of store make a difference for sales. This is one of the reasons I go to walmart. You can get your cars oil changed and get your groceries.
+
 
 ## Decision Tree
 
@@ -17,12 +18,23 @@ To me the plot shows how the type of store make a difference for sales. This is 
 
 
 
-The decision tree has a major importance of Item_MRP and that doesn't matter when selling a product. That information is for restock and the scanning of sold items. It does have the store type as a significant factor too.
+### The decision tree has a major importance of Item_MRP and that doesn't matter when selling a product. That information is for restock and the scanning of sold items. It does have the store type as a significant factor too.
 
-In my opinion running a few more models will help narrow down the true factor for sales.
 
 
 ## Shap Bar Plot
 
 
 ![download](https://github.com/Luz-Dobbins/week17-Project-1-Revisited/assets/123646377/3afdf4cd-0199-44b5-803f-a563fa9b5ea1)
+
+
+### They are very much the same or close to the same. All the top important features are present in both bar plot.
+
+
+
+## Shay Dot Plot
+
+![download](https://github.com/Luz-Dobbins/week17-Project-1-Revisited/assets/123646377/f9283477-6eb0-4d55-b99f-2a412cd2fc29)
+
+
+### It like the most important features are Item_MRP, Item_Visibility, and Item_Weight. They have major impacts on the sales of every store. This makes total sense to me.
