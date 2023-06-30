@@ -38,3 +38,10 @@
 
 
 ### It like the most important features are Item_MRP, Item_Visibility, and Item_Weight. They have major impacts on the sales of every store. This makes total sense to me.
+
+
+
+## Lime
+
+![image](https://github.com/Luz-Dobbins/week17-Project-1-Revisited/assets/123646377/d4f55e6b-f3d3-4bb5-bdb9-1597091cd4f0)
+
