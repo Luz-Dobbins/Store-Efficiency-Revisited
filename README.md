@@ -43,10 +43,24 @@
 
 ## Lime
 
-![image](https://github.com/Luz-Dobbins/week17-Project-1-Revisited/assets/123646377/d4f55e6b-f3d3-4bb5-bdb9-1597091cd4f0)
+### Max Item_visibility
+
+![image](https://github.com/Luz-Dobbins/week17-Project-1-Revisited/assets/123646377/12e09a82-fd37-4b93-85ea-3c59bf582bd2)
+
+### Min Item_Visibility
+![image](https://github.com/Luz-Dobbins/week17-Project-1-Revisited/assets/123646377/6282e45a-d027-444b-a25a-7583ffbff64c)
 
 
 
 ## Force Plot
 
-![image](https://github.com/Luz-Dobbins/week17-Project-1-Revisited/assets/123646377/60a8a6fc-f8e0-4722-af0e-4be7abb01377)
+### Lineart Regression Shay values
+
+![image](https://github.com/Luz-Dobbins/week17-Project-1-Revisited/assets/123646377/38c23970-fee1-4c56-afa5-8d46a9b53f11)
+
+### Decision Tree Regression Shay values
+
+![image](https://github.com/Luz-Dobbins/week17-Project-1-Revisited/assets/123646377/f8f7ff8f-0f34-45f8-bb00-b11e3c68882b)
+
+
+
