@@ -38,3 +38,31 @@
 
 
 ### It like the most important features are Item_MRP, Item_Visibility, and Item_Weight. They have major impacts on the sales of every store. This makes total sense to me.
+
+
+
+## Lime
+
+### Max Item_visibility
+
+![image](https://github.com/Luz-Dobbins/week17-Project-1-Revisited/assets/123646377/12e09a82-fd37-4b93-85ea-3c59bf582bd2)
+
+### Min Item_Visibility
+![image](https://github.com/Luz-Dobbins/week17-Project-1-Revisited/assets/123646377/6282e45a-d027-444b-a25a-7583ffbff64c)
+
+### You can see with more visibility a product sells better with less visibility the item has more negatives going on in the Lime Explorer.
+
+## Force Plot
+
+### Lineart Regression Shay values
+
+![image](https://github.com/Luz-Dobbins/week17-Project-1-Revisited/assets/123646377/38c23970-fee1-4c56-afa5-8d46a9b53f11)
+
+### Decision Tree Regression Shay values
+
+![image](https://github.com/Luz-Dobbins/week17-Project-1-Revisited/assets/123646377/f8f7ff8f-0f34-45f8-bb00-b11e3c68882b)
+
+### To tell you the truth I don't know what is going on on the force plots. I see larger positive features for the linear regression but more negative features. 
+
+
+
