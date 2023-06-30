@@ -45,3 +45,8 @@
 
 ![image](https://github.com/Luz-Dobbins/week17-Project-1-Revisited/assets/123646377/d4f55e6b-f3d3-4bb5-bdb9-1597091cd4f0)
 
+
+
+## Force Plot
+
+![image](https://github.com/Luz-Dobbins/week17-Project-1-Revisited/assets/123646377/60a8a6fc-f8e0-4722-af0e-4be7abb01377)
