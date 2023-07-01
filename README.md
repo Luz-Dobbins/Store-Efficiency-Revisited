@@ -18,7 +18,7 @@
 
 
 
-### The decision tree has a major importance of Item_MRP and that doesn't matter when selling a product. That information is for restock and the scanning of sold items. It does have the store type as a significant factor too.
+### The decision tree has a major importance of Item_MRP which after being informed of what it means, I do agree that individuals will look at a price and decide on purchasing or not.
 
 
 
