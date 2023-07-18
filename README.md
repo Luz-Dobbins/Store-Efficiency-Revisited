@@ -8,7 +8,7 @@
 
 
 
-### The coefficients show that the sale of items is dependent on the store type with supermarkets having a higher coefficient and grocery store type having a negative effect on sales.
+### The coefficients show that the sale of items is dependent on the store type with supermarkets having positive coefficients and grocery store type having a negative effect on sales. The outlet size is the third feature of sales amounts.
 
 
 ## Decision Tree
@@ -18,9 +18,9 @@
 
 
 
-### The decision tree has a major importance of Item_MRP which after being informed of what it means, I do agree that individuals will look at a price and decide on purchasing or not.
+### The decision tree has a major importance of Item_MRP which after being informed of what it means, I do agree that individuals will look at a price and decide on purchasing or not. Grocery store types are also an important feature with Item_visibility, supermarket types, and item weight following right behind.
 
-
+# Global Explanation
 
 ## Shap Bar Plot
 
@@ -28,7 +28,10 @@
 ![download](https://github.com/Luz-Dobbins/week17-Project-1-Revisited/assets/123646377/3afdf4cd-0199-44b5-803f-a563fa9b5ea1)
 
 
-### They are very much the same or close to the same. All the top important features are present in both bar plot.
+### Both grafts show the same important features which makes sense.
+- The Price of an item is important when we buy something, be it food or home goods. I like to stay within budget and am always looking for a great deal.
+- Grocery Stores have always made more money than just clothing outlets. That is why Walmart opened Super Walmarts They have more people buying clothes and electronics now that they are in the same building as grocery stores. We are one shop-and-go people.
+- Item visibility is highly important especially when individuals are in a hurry and buy the first thing they. The sweet spot for item placement is at eye level and that is also why the pricier items are there.
 
 
 
@@ -37,9 +40,13 @@
 ![download](https://github.com/Luz-Dobbins/week17-Project-1-Revisited/assets/123646377/f9283477-6eb0-4d55-b99f-2a412cd2fc29)
 
 
-### The most important features are Item_MRP, Item_Visibility, and Item_Weight. I see that there are other features that have smaller impacts to the sales of the stores. The newer stores are having a negative affect to sales and super markets type 3 are giving a negative impact all around.
+### The most important features are Item_MRP, Grocery/ Supermarket type stores, Item_Visibility, and Item_Weight.
+- Pricing on items can cause the product not to sell as well and we would need to have sales just to get the quantity on hand down.
+- Grocery will always be needed and putting it all together in supermarkets is a great way to get items sold, that would usually stay on the shift for longer. It improves profit and supermarkets are the new wave of the future.
+- The visibility of an item has a lot to do with the probability of it selling. This affects all revenue and profit of a business. We always place higher-priced items at eye level and shoppers usually go for them as soon as they hit the aisle.
+- The Item weight carries an even more difficult problem because you need to develop a way of placement when products need to be on a pallet or in a tall aisle. These are great items to put into the end of an aisle and if space permits to place in front of the store. I would take notice as I enter the store and purchase it on my way out. Making something that weights more sell is a great way of increasing profit and you don't have to carry a lot in stock because of storage.
 
-
+# Local Explanation
 
 ## Lime
 
